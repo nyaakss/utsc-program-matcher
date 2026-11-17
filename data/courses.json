@@ -1,0 +1,166 @@
+[
+  {
+    "code": "CSCA08H3",
+    "title": "Introduction to Computer Science I"
+  },
+  {
+    "code": "CSCA20H3",
+    "title": "Introduction to Programming"
+  },
+  {
+    "code": "CSCA48H3",
+    "title": "Introduction to Computer Science II"
+  },
+  {
+    "code": "CSCA67H3",
+    "title": "Discrete Mathematics"
+  },
+  {
+    "code": "CSCB07H3",
+    "title": "Software Design"
+  },
+  {
+    "code": "CSCB09H3",
+    "title": "Software Tools and Systems Programming"
+  },
+  {
+    "code": "CSCB20H3",
+    "title": "Introduction to Databases and Web Applications"
+  },
+  {
+    "code": "CSCB36H3",
+    "title": "Introduction to the Theory of Computation"
+  },
+  {
+    "code": "CSCB58H3",
+    "title": "Computer Organization"
+  },
+  {
+    "code": "CSCB63H3",
+    "title": "Design and Analysis of Data Structures"
+  },
+  {
+    "code": "CSCC01H3",
+    "title": "Introduction to Software Engineering"
+  },
+  {
+    "code": "CSCC09H3",
+    "title": "Programming on the Web"
+  },
+  {
+    "code": "CSCC10H3",
+    "title": "Human-Computer Interaction"
+  },
+  {
+    "code": "CSCC11H3",
+    "title": "Introduction to Machine Learning and Data Mining"
+  },
+  {
+    "code": "CSCC24H3",
+    "title": "Principles of Programming Languages"
+  },
+  {
+    "code": "CSCC37H3",
+    "title": "Introduction to Numerical Algorithms for Computational Mathematics"
+  },
+  {
+    "code": "CSCC43H3",
+    "title": "Introduction to Databases"
+  },
+  {
+    "code": "CSCC46H3",
+    "title": "Social and Information Networks"
+  },
+  {
+    "code": "CSCC63H3",
+    "title": "Computability and Computational Complexity"
+  },
+  {
+    "code": "CSCC69H3",
+    "title": "Operating Systems"
+  },
+  {
+    "code": "CSCC73H3",
+    "title": "Algorithm Design and Analysis"
+  },
+  {
+    "code": "CSCC85H3",
+    "title": "Fundamentals of Robotics and Automated Systems"
+  },
+  {
+    "code": "CSCD01H3",
+    "title": "Engineering Large Software Systems"
+  },
+  {
+    "code": "CSCD03H3",
+    "title": "Social Impact of Information Technology"
+  },
+  {
+    "code": "CSCD18H3",
+    "title": "Computer Graphics"
+  },
+  {
+    "code": "CSCD21H3",
+    "title": "Blockchains and Decentralized Applications"
+  },
+  {
+    "code": "CSCD25H3",
+    "title": "Advanced Data Science"
+  },
+  {
+    "code": "CSCD27H3",
+    "title": "Computer and Network Security"
+  },
+  {
+    "code": "CSCD37H3",
+    "title": "Analysis of Numerical Algorithms for Computational Mathematics"
+  },
+  {
+    "code": "CSCD43H3",
+    "title": "Database System Technology"
+  },
+  {
+    "code": "CSCD54H3",
+    "title": "Technology Innovation and Entrepreneurship"
+  },
+  {
+    "code": "CSCD58H3",
+    "title": "Computer Networks"
+  },
+  {
+    "code": "CSCD60H3",
+    "title": "High-Performance Computing"
+  },
+  {
+    "code": "CSCD70H3",
+    "title": "Compiler Optimization"
+  },
+  {
+    "code": "CSCD71H3",
+    "title": "Topics in Computer Science"
+  },
+  {
+    "code": "CSCD72H3",
+    "title": "Topics in the Theory of Computing"
+  },
+  {
+    "code": "CSCD84H3",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "code": "CSCD90H3",
+    "title": "The Startup Sandbox"
+  },
+  {
+    "code": "CSCD92H3",
+    "title": "Readings in Computer Science"
+  },
+  {
+    "code": "CSCD94H3",
+    "title": "Computer Science Project"
+  },
+  {
+    "code": "CSCD95H3",
+    "title": "Computer Science Project"
+  }
+]
